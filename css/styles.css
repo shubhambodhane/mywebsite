@@ -11411,6 +11411,10 @@ section.resume-section .resume-section-content {
   text-align: center;
 }
 
+.my_project_link{
+  text-decoration: none;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;

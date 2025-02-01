@@ -11434,3 +11434,14 @@ section.resume-section .resume-section-content {
   margin-top: 10px;
   }
 }
+
+.margin-left-fix{
+  margin-left: 1.5rem;
+}
+
+ul.list-item-fix{
+   li{
+    margin-bottom:5px;   
+   }
+  
+}
